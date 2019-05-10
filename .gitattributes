@@ -1,0 +1,4 @@
+*.tex linguist-vendored
+*.bib linguist-vendored
+*.bbl linguist-vendored
+*.pdf linguist-vendored
